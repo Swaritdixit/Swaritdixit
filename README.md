@@ -2,14 +2,14 @@
 
 **B.Tech ECE @ IIT Bhilai | Full-Stack Developer | ML/NLP**
 
-I enjoy building software, solving problems, and working on practical AI/ML systems.
+I build full-stack applications and practical AI/ML systems, with a focus on solving real-world problems.
 
-### 🚀 What I'm working on
+### 🚀 Currently Working On
 
 - 💻 Building full-stack web applications
-- 🤖 Exploring Machine Learning and NLP
-- 🧠 Strengthening Java, DSA and Computer Science fundamentals
-- 🚀 Building **OptiSense AI** for smart infrastructure and vehicle intelligence
+- 🤖 Developing ML/NLP projects
+- 🧠 Strengthening Java, DSA and core Computer Science fundamentals
+- 🚦 Building **OptiSense AI** for smart infrastructure and vehicle intelligence
 
 ### 🛠️ Tech Stack
 
@@ -40,10 +40,9 @@ I enjoy building software, solving problems, and working on practical AI/ML syst
 
 - 🎯 **350+ LeetCode problems solved**
 - 🎓 **B.Tech Electronics & Communication Engineering — IIT Bhilai**
-- 🚀 **MeitY Genesis startup support — ₹10 lakh**
+- 🚀 **₹10 lakh startup support through MeitY Genesis**
 
-### 📫 Connect with me
+### 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn]
-- 📧 Email: [Add your email]
-- 💻 GitHub: [@Swaritdixit](https://github.com/Swaritdixit)
+- 💼 [LinkedIn](https://www.linkedin.com/in/swarit-dixit-b907b8309/)
+- 💻 [GitHub](https://github.com/Swaritdixit)
